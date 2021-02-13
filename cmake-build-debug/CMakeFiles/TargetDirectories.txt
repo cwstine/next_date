@@ -1,0 +1,3 @@
+C:/Users/zaser/CLionProjects/a1/next_date/cmake-build-debug/CMakeFiles/next_date.dir
+C:/Users/zaser/CLionProjects/a1/next_date/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zaser/CLionProjects/a1/next_date/cmake-build-debug/CMakeFiles/rebuild_cache.dir
